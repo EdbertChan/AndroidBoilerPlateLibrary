@@ -7,7 +7,7 @@ Boilerplate code to jumpstart apps.
 Sample App (For demo purposes):<br>
 https://github.com/EdbertChan/AndroidBoilerPlateLibraryDemoApp
 
-<b>Philosophy:</b> People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes. 
+<b>Philosophy:</b> People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes then say the documentation sucks when they can't solve it in 10 minutes.
 
 <b>Libraries required (no gradle provided):</b><br>
 me.grantland.widget.autofittextview:<br>
@@ -33,16 +33,16 @@ https://github.com/jgilfelt/android-viewbadger<br>
   b) Thread safe<br>
 
 4) Location Tracking<br>
-  a) Improved tracking for both GPS and Networkv
+  a) Improved tracking for both GPS and Network.
 
 5) Google Maps<br>
 
 6) Json parser<br>
   a) Based on Gson, can create Java classes that resemble the classes in JSON responses.<br>
 
-<b> TODO:</b>
-7) Background syncing
-  a) Will create a second service for that.
+<b> TODO:</b><br>
+7) Background syncing<br>
+  a) Will create a second service for that.<br>
 
 <b>Motivation</b>
 
