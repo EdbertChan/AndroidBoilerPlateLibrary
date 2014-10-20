@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_grey">#a5acb0</color>
+    <color name="brown">#525964</color>
+    <color name="dark_grey">#212121</color>
+    <color name="aqua">#33CCFF</color>
+    <color name="red_cherry">#C9282D</color>
+    <color name="silver">#A9A9A9</color>
+    <color name="blue">#00aceb</color>
+    <color name="spiritclips_bck">#8AB8E0</color>
+    <color name="translucent_black">#55000000</color>
+    <color name="grid_bck">#627583</color>
+    <color name="grey">#DBD9D9</color>
+    <color name="dark_grey_bg">#1f1c17</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00CC00</color>
+    
+    <color name="navigation_drawer_text_color">@color/white</color>
+    <color name="navigation_drawer_normal_color">@android:color/transparent</color>
+ <color name="navigation_drawer_pressed_color">@color/grey</color>
+</resources>
