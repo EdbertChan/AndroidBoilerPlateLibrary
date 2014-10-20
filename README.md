@@ -3,17 +3,10 @@ AndroidBoilerPlateLibrary
 
 Boilerplate code to jumpstart apps. 
 
-Idea: Several core features are ubiquitous across apps like Facebook and several other social apps. This library is 
-geared towards creating a minimally viable app as quickly as possible that is also not a "glass cannon" (EG: not 
-so unstable that it will break often but will last long enough to see if it will be a viable product in the long run or
-if the app is small enough it doesn't need extensive work). 
+<b> TL;DR I WANT TO USE IT NOW SECTION</b><br>
+Sample App (For demo purposes):<br>
+https://github.com/EdbertChan/AndroidBoilerPlateLibraryDemoApp
 
-The second idea is that the feature should take no more than 5 minutes to learn how to use and how to implement. 
-Learn by example because people don't read (including me :3).
-
-If you think there are other core features that should be added, then please note what they are in your pull
-request and an example of how an app can implement it (implementation should be braindead and should take no more 
-than 5 minutes to learn).
 
 Features include:
 
@@ -37,13 +30,26 @@ Features include:
 
 6) Json parser<br>
   a) Based on Gson, can create Java classes that resemble the classes in JSON responses.<br>
-  
 
-Sample App (For demo purposes):<br>
 
-Libraries required (no gradle provided):<br>
+<b>Libraries required (no gradle provided):</b><br>
 me.grantland.widget.autofittextview:<br>
 https://github.com/grantland/android-autofittextview<br>
 
 com.readystatesoftware.viewbadger:<br>
 https://github.com/jgilfelt/android-viewbadger<br>
+
+
+<b>Motivation</b>
+
+Several core features are ubiquitous across apps like Facebook and several other social apps. <b> This library is 
+geared towards creating a minimally viable app as quickly as possible that is also not a "glass cannon" <b> (EG: not 
+so unstable that it will break often but will last long enough to see if it will be a viable product in the long run or
+if the app is small enough it doesn't need extensive work). 
+
+The second idea is that the <b>features should take no more than 5 minutes to learn how to use and how to implement</b>. 
+Learn by example because people don't read (including me :3).
+
+If you think there are other core features that should be added, then please note what they are in your pull
+request and an example of how an app can implement it (implementation should be braindead and should take no more 
+than 5 minutes to learn).
