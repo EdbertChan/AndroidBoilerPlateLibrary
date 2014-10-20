@@ -42,12 +42,11 @@ https://github.com/jgilfelt/android-viewbadger<br>
 <b>Motivation</b>
 
 Several core features are ubiquitous across apps like Facebook and several other social apps. <b> This library is 
-geared towards creating a minimally viable app as quickly as possible that is also not a "glass cannon" <b> (EG: not 
-so unstable that it will break often but will last long enough to see if it will be a viable product in the long run or
-if the app is small enough it doesn't need extensive work). 
+geared towards creating a minimally viable app as quickly as possible that is also not a "glass cannon" </b> 
 
-The second idea is that the <b>features should take no more than 5 minutes to learn how to use and how to implement</b>. 
-Learn by example because people don't read (including me :3).
+The second motiviation is that the <b>features should take no more than 5 minutes to learn how to use and how to implement</b>. 
+
+<b>People DONT WANT TO READ DOCUMENTATION so just throw them a few examples and they'll learn the patterns through that. </b>
 
 If you think there are other core features that should be added, then please note what they are in your pull
 request and an example of how an app can implement it (implementation should be braindead and should take no more 
