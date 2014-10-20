@@ -7,8 +7,15 @@ Boilerplate code to jumpstart apps.
 Sample App (For demo purposes):<br>
 https://github.com/EdbertChan/AndroidBoilerPlateLibraryDemoApp
 
+<b>Libraries required (no gradle provided):</b><br>
+me.grantland.widget.autofittextview:<br>
+https://github.com/grantland/android-autofittextview<br>
 
-Features include:
+com.readystatesoftware.viewbadger:<br>
+https://github.com/jgilfelt/android-viewbadger<br>
+
+
+<b>Features include:</b>
 
 1) Dynamic Navigation Bar <br>
   a) Supports login/logout detection and layout customization <br>
@@ -30,14 +37,6 @@ Features include:
 
 6) Json parser<br>
   a) Based on Gson, can create Java classes that resemble the classes in JSON responses.<br>
-
-
-<b>Libraries required (no gradle provided):</b><br>
-me.grantland.widget.autofittextview:<br>
-https://github.com/grantland/android-autofittextview<br>
-
-com.readystatesoftware.viewbadger:<br>
-https://github.com/jgilfelt/android-viewbadger<br>
 
 
 <b>Motivation</b>
