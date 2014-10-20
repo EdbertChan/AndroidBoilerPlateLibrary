@@ -16,33 +16,34 @@ request and an example of how an app can implement it (implementation should be 
 than 5 minutes to learn).
 
 Features include:
-1) Dynamic Navigation Bar
-  a) Supports login/logout detection and layout customization
-  b) Dynamically add/remove items
+
+1) Dynamic Navigation Bar <br>
+  a) Supports login/logout detection and layout customization <br>
+  b) Dynamically add/remove items <br>
   
-2) Pull to Refresh and Sync
-  a) Requests Manager to read from source and write to database
-  b) Single service multiple adapters
-  c) Cursor-backed listviews
+2) Pull to Refresh and Sync<br>
+  a) Requests Manager to read from source and write to database<br>
+  b) Single service multiple adapters<br>
+  c) Cursor-backed listviews<br>
 
-3) Database Table Manager
-  a) Easily add and remove tables
-  b) Thread safe
+3) Database Table Manager<br>
+  a) Easily add and remove tables<br>
+  b) Thread safe<br>
 
-4) Location Tracking
-  a) Improved tracking for both GPS and Network
+4) Location Tracking<br>
+  a) Improved tracking for both GPS and Networkv
 
-5) Google Maps
+5) Google Maps<br>
 
-6) Json parser
-  a) Based on Gson, can create Java classes that resemble the classes in JSON responses.
+6) Json parser<br>
+  a) Based on Gson, can create Java classes that resemble the classes in JSON responses.<br>
   
 
-Sample App (For demo purposes):
+Sample App (For demo purposes):<br>
 
-Libraries required (no gradle provided):
-me.grantland.widget.autofittextview:
-https://github.com/grantland/android-autofittextview
+Libraries required (no gradle provided):<br>
+me.grantland.widget.autofittextview:<br>
+https://github.com/grantland/android-autofittextview<br>
 
-com.readystatesoftware.viewbadger:
-https://github.com/jgilfelt/android-viewbadger
+com.readystatesoftware.viewbadger:<br>
+https://github.com/jgilfelt/android-viewbadger<br>
