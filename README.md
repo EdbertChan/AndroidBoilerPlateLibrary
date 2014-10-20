@@ -7,7 +7,7 @@ Boilerplate code to jumpstart apps.
 Sample App (For demo purposes):<br>
 https://github.com/EdbertChan/AndroidBoilerPlateLibraryDemoApp
 
-Philosophy:<b>People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes. </b>
+<b>Philosophy:</b> People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes. 
 
 <b>Libraries required (no gradle provided):</b><br>
 me.grantland.widget.autofittextview:<br>
