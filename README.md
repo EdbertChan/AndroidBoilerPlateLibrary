@@ -1,13 +1,13 @@
 AndroidBoilerPlateLibrary
 =========================
 
-Boilerplate code to jumpstart apps. 
+Boilerplate code to jumpstart common complex features in mobile apps. 
 
 <b> TL;DR I WANT TO USE IT NOW SECTION</b><br>
 Sample App (For demo purposes):<br>
 https://github.com/EdbertChan/AndroidBoilerPlateLibraryDemoApp
 
-<b>Philosophy:</b> People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes then say the documentation sucks when they can't solve it in 10 minutes.
+<b>Problem Library Addresses:</b> People don't have time/want to read boring documentation. People code now, ask how it works when they make mistakes, then say the documentation is bad when they can't fix it in 10 minutes.
 
 <b>Libraries required (no gradle provided):</b><br>
 me.grantland.widget.autofittextview:<br>
@@ -19,18 +19,19 @@ https://github.com/jgilfelt/android-viewbadger<br>
 
 <b>Features include:</b>
 
-1) Dynamic Navigation Bar <br>
+1) Navigation Drawer<br>
   a) Supports login/logout detection and layout customization <br>
-  b) Dynamically add/remove items <br>
+  b) Dynamically add/remove items and associate an action with each<br>
   
 2) Pull to Refresh and Sync<br>
   a) Requests Manager to read from source and write to database<br>
   b) Single service multiple adapters<br>
-  c) Cursor-backed listviews<br>
+  c) Cursor-backed pull-to-refresh listviews<br>
 
 3) Database Table Manager<br>
   a) Easily add and remove tables<br>
   b) Thread safe<br>
+  c) Common table query operations simplified <b>
 
 4) Location Tracking<br>
   a) Improved tracking for both GPS and Network.
@@ -39,14 +40,17 @@ https://github.com/jgilfelt/android-viewbadger<br>
 
 6) Json parser<br>
   a) Based on Gson, can create Java classes that resemble the classes in JSON responses.<br>
+  
+7) GET, POST, PATCH, DELETE Socket Operator<br>
+  a) Basic HTTP requests with header map support.<br>
 
 <b> TODO:</b><br>
-7) Background syncing<br>
+1) Background syncing<br>
   a) Will create a second service for that.<br>
 
 <b>Motivation</b>
 
-Several core features are ubiquitous across apps like Facebook and several other social apps. <b> This library is 
+Several core features are ubiquitous across apps like Facebook and other social apps. <b> This library is 
 geared towards creating a minimally viable app as quickly as possible that is also not a "glass cannon" </b> 
 
 The second motiviation is that the <b>features should take no more than 5 minutes to learn how to use and how to implement</b>. 
